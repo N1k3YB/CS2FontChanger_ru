@@ -13,7 +13,7 @@ CS2 Font Changer - это графическая утилита для **изм�
 
 ## Установка и использование  
 1. **Скачивание приложения**:  
-   * 1. Скачайте архив с [однофайловым]([https://drive.google.com/file/d/18sYmIauI80SZT1pTiINzPihTUxGTyULy/view?usp=sharing]) либо [модульным](https://drive.google.com/file/d/1Q7HpHOOC4ukmuawmiLKIVHQdydyIMsP4/view?usp=sharing)
+   * 1. Скачайте архив с [однофайловым](https://drive.google.com/file/d/1-kOau7zL3c6C0_YJO8KUEC6XyZLvbMAz/view?usp=sharing) либо [модульным](https://drive.google.com/file/d/1Q7HpHOOC4ukmuawmiLKIVHQdydyIMsP4/view?usp=sharing)
    * 2. Распакуйте в удобную для вас папку
    * 3. Запустите приложение
 
